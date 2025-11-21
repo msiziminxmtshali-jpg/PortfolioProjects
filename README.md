@@ -41,11 +41,11 @@ The analysis reveals that the population relies on five distinct water sources, 
         Amanzi: Often shows high rates of pollution in existing water sources, requiring a focus on filtration
         rather than drilling.
 
-   3. The "Gender Gap" in Water Collection
+3. The "Gender Gap" in Water Collection
       
-            Finding: By analyzing [3][4]the demographic data combined with queue times, the dashboard reveals
-            that women and children bear the primary burden of water colle[3]ction.
-            Impact: The 2+ hour wait times at Shared Taps are directly removing women [4]from the workforce and children from school.
+         Finding: By analyzing [3][4]the demographic data combined with queue times, the dashboard reveals
+       that women and children bear the primary burden of water colle[3]ction.
+        Impact: The 2+ hour wait times at Shared Taps are directly removing women [4]from the workforce and children from school.
  
 5. Financial Summary (The Budget)
 
