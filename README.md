@@ -53,4 +53,4 @@ The analysis reveals that the population relies on five distinct water sources, 
 
         In the final stages of the project (often involving SQL and Power BI validation), an audit analysis reveals:
         Discrepancies: There are records where the reported water source improvement does not match the actual engineer's log.
-        The Culprit: Visuals often point to specific officers (e.g., an employee frequently associated with high-cost, verified-false entries) suggesting embezzlement or             data fraud.
+        The Culprit: Visuals often point to specific officers (e.g., an employee frequently associated with high-cost, verified-false entries) suggesting embezzlement or data fraud.
