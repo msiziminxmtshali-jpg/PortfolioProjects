@@ -19,9 +19,11 @@ The government of Maji Ndogo has collected data on water sources across the coun
 
 The analysis reveals that the population relies on five distinct water sources, each with specific failures:
         
-        Rivers (Rural Crisis): A significant portion of the rural population relies on open rivers. The water quality is extremely poor, leading to high health risks.
+        Rivers (Rural Crisis): A significant portion of the rural population relies on open rivers. 
+        The water quality is extremely poor, leading to high health risks.
         Action: These people need groundwater wells drilled imm[1][2]ediately.
-        Shared Taps (Urban Crisis): While the water quality here is good, the access is the issue. The data shows massive overcrowding.
+        Shared Taps (Urban Crisis): While the water quality here is good, the access is the issue. 
+        The data shows massive overcrowding.
         Finding: 43% of the population relies on these, but wait times frequently exceed 120 minutes.
         Action: Install more taps near existing ones to reduce wait times to under 30 minutes.
         Wells (Contamination): Many wells are functionally working but pump unsafe water.
