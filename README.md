@@ -42,23 +42,15 @@ The analysis reveals that the population relies on five distinct water sources, 
 
 4. Financial Summary (The Budget)
 
-Using DAX measures to cal[8]culate the cost of fixing each specific source, the project usually conclude[2]s with the following financial requirements:
-
-Total Budget [6]Required: Approximately $147 Million (varies slightly based on currency conversion in the specific course version).
-
-Allocation:
-
-The most expensive line item is Drilling New Wells (replacing rivers).
-
-The second most expensive is installing RO Filters (cl[7]eaning polluted wells).
-
-The cheapest high-impact solution is repairing broken home taps.
+        Using DAX measures to cal[8]culate the cost of fixing each specific source, the project usually conclude[2]s with the following financial requirements:
+        Total Budget [6]Required: Approximately $147 Million (varies slightly based on currency conversion in the specific course version).
+        Allocation:
+        The most expensive line item is Drilling New Wells (replacing rivers).
+        The second most expensive is installing RO Filters (cl[7]eaning polluted wells).
+        The cheapest high-impact solution is repairing broken home taps.
 
 5. The "Corruption" Insight (Project Extension)
 
-In the final stages of the project (often involving SQL and Power BI validation), an audit analysis reveals:
-
-Discrepancies: There are records where the reported water source improvement does not match the actual engineer's log.
-
-The Culprit: Visuals often point to specific officers (e.g., an employee frequently associated with high-cost, verified-false entries) suggesting embezzlement or data fraud.
-
+        In the final stages of the project (often involving SQL and Power BI validation), an audit analysis reveals:
+        Discrepancies: There are records where the reported water source improvement does not match the actual engineer's log.
+        The Culprit: Visuals often point to specific officers (e.g., an employee frequently associated with high-cost, verified-false entries) suggesting embezzlement or             data fraud.
