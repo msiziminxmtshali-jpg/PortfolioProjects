@@ -66,4 +66,6 @@ The analysis reveals that the population relies on five distinct water sources, 
         The Culprit: Visuals often point to specific officers (e.g., an employee frequently associated with high-cost,
         verified-false entries) suggesting embezzlement or data fraud.
 
- <img src="images/Screenshot (492).png" width="600" alt="Maji Ndogo Dashboard">  
+ <div align="center">
+  <img src="images/Screenshot (492).png" width="700" alt="Maji Ndogo Dashboard">
+</div>
