@@ -11,5 +11,5 @@ The government of Maji Ndogo has collected data on water sources across the coun
 
         Identifies which citizens lack access to basic water.
         Diagnoses the problem (Pollution? Broken infrastructure? Long wait times?).
-       Calculates a budget to fix these issues (typically capped around $147 Million).
+        Calculates a budget to fix these issues (typically capped around $147 Million).
         Tracks the progress of the engineering teams fixing the sources.
