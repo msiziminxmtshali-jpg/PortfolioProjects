@@ -21,7 +21,7 @@ The analysis reveals that the population relies on five distinct water sources, 
         
         Rivers (Rural Crisis): A significant portion of the rural population relies on open rivers. 
         The water quality is extremely poor, leading to high health risks.
-        Action: These people need groundwater wells drilled imm[1][2]ediately.
+        Action: These people need groundwater wells drilled immediately.
         Shared Taps (Urban Crisis): While the water quality here is good, the access is the issue. 
         The data shows massive overcrowding.
         Finding: 43% of the population relies on these, but wait times frequently exceed 120 minutes.
@@ -41,11 +41,12 @@ The analysis reveals that the population relies on five distinct water sources, 
         Amanzi: Often shows high rates of pollution in existing water sources, requiring a focus on filtration
         rather than drilling.
 
-3. The "Gender Gap" in Water Collection
-            Finding: By analyzing the demographic data combined with queue times, the dashboard reveals that women
-            and children bear the primary burden of water                     collection.
-            Impact: The 2+ hour wait times at Shared Taps are directly removing women from the workforce and children from school.
-
+   3. The "Gender Gap" in Water Collection
+      
+            Finding: By analyzing [3][4]the demographic data combined with queue times, the dashboard reveals
+            that women and children bear the primary burden of water colle[3]ction.
+            Impact: The 2+ hour wait times at Shared Taps are directly removing women [4]from the workforce and children from school.
+ 
 5. Financial Summary (The Budget)
 
         Using DAX measures to calculate the cost of fixing each specific source, the project usually concludes
