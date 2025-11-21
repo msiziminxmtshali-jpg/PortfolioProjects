@@ -33,23 +33,29 @@ The analysis reveals that the population relies on five distinct water sources, 
 2. Geographical Disparities (Province Analysis)
 
         The dashboard highlights that the water crisis is not evenly distributed across the five provinces:
-        Sokoto: This is the most critical province. It is largely rural, relies heavily on rivers/wells, and requires the largest share of the budget for drilling             new wells.
+        Sokoto: This is the most critical province. It is largely rural, relies heavily on rivers/wells,
+        and requires the largest share of the budget for drilling new wells.
         Kilimani: A more urban province. The main issue here is typically Shared Tap overcrowding and queue times.
-        Amanzi: Often shows high rates of pollution in existing water sources, requiring a focus on filtration rather than drilling.
-        3. The "Gender Gap" in Water Collection
-        Finding: By analyzing the demographic data combined with queue times, the dashboard reveals that women and children bear the primary burden of water                     collection.
-        Impact: The 2+ hour wait times at Shared Taps are directly removing women from the workforce and children from school.
+        Amanzi: Often shows high rates of pollution in existing water sources, requiring a focus on filtration
+        rather than drilling.
 
-4. Financial Summary (The Budget)
+3. The "Gender Gap" in Water Collection
+            Finding: By analyzing the demographic data combined with queue times, the dashboard reveals that women
+            and children bear the primary burden of water                     collection.
+            Impact: The 2+ hour wait times at Shared Taps are directly removing women from the workforce and children from school.
 
-        Using DAX measures to calculate the cost of fixing each specific source, the project usually concludes with the following financial requirements:
-        Total Budget Required: Approximately $147 Million (varies slightly based on currency conversion in the specific course version).
+5. Financial Summary (The Budget)
+
+        Using DAX measures to calculate the cost of fixing each specific source, the project usually concludes
+        with the following financial requirements:
+        Total Budget Required: Approximately $147 Million (varies slightly based on currency conversion in the
+        specific course version).
         Allocation:
         The most expensive line item is Drilling New Wells (replacing rivers).
         The second most expensive is installing RO Filters (cleaning polluted wells).
         The cheapest high-impact solution is repairing broken home taps.
 
-5. The "Corruption" Insight (Project Extension)
+6. The "Corruption" Insight (Project Extension)
 
         In the final stages of the project (often involving SQL and Power BI validation), an audit analysis reveals:
         Discrepancies: There are records where the reported water source improvement does not match the actual engineer's log.
